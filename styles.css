@@ -33,3 +33,7 @@ hr {
     border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 
+.navbar {
+	background-color: black;
+	border-bottom: 2px solid #777;
+}
