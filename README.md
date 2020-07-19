@@ -2,7 +2,7 @@
 
 A landing page for a start-up motorcycle repair shop using Bootstrap.
 
-# What I Learned
+# What I Learnt
 
 * How to use Bootstrap to create a landing page.
 * Create multiple links with a navigation menu using anchor elements.
